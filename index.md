@@ -50,7 +50,7 @@ Afrikaans, Life Orientation.</article>
     <ul>
       <li>IT computer familiarity</li>
       <li>Time Management</li>
-      <li>Navigatign stressful situations</li>
+      <li>Navigating stressful situations</li>
       <li>Deadline navigation</li>
       <li>Teamwork</li>
       <li>Perserverance</li>
