@@ -1,7 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Epeon</h1>
+<p>Contact details:</p>
+  <ol>
+    <li>Test
+  </ol>
 </body>
 </html>
