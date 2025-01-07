@@ -8,11 +8,7 @@ communication, and technical skills. Looking to learn mastery from professionals
   </section>
   <section>
     <h3>Contact details:</h3>
-      <ol>
-        <li>Email: kaspervann9@gmail.com</li>
-        <li>Phone No: REDACTED<!---+27 71 442 0787--></li>
-        <li>LinkedIn: REDACTED<!---<a>linkedin.com/in/kasper-van-niekerk-n09n</a>--></li>
-      </ol>
+      <p>Removed for security reasons</p>
   </section>
   <section>
     <h2>Education</h2>
